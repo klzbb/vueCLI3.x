@@ -62,6 +62,7 @@ export default {
                 callback();
             }
         };
+        
         return {
             ruleForm: {
                 pass: "",

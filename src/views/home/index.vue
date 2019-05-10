@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        首页模块klz
+        首页模块kl
         <button @click="goLogin()">去登陆页面</button>
     </div>
 </template>
