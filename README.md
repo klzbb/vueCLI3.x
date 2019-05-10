@@ -1,29 +1,4 @@
-# v1
+技术栈：vuejs + element-ui + vue-router + axios + vuex + vue-cli3.x(不熟悉3.x脚手架的朋友可以到官网查看配置问题)
+构建目标：针对pc中后台项目
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
