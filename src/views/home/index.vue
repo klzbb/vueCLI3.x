@@ -5,6 +5,7 @@
     </div>
 </template>
 <script>
+
 export default {
     name:'home',
     beforeRouteEnter (to, from, next) {

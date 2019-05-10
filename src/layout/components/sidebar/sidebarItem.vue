@@ -8,6 +8,7 @@
     <ul v-show="open" class="kk" v-if="hasChild">
       <tree-menu v-for="(item,index) in model.children"  v-bind:model="item" v-bind:key="index"></tree-menu>
     </ul>
+
   </li>
 </template>
 

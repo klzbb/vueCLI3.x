@@ -5,6 +5,7 @@
 </template>
 <script>
 import Sidebar from './components/sidebar'
+
 export default {
     name:'layout',
     components:{
