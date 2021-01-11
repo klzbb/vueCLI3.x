@@ -16,7 +16,7 @@ export default {
         console.log(1)
     },
     created(){
-        console.log(2)
+        console.log("jenkins--1")
     },
     methods:{
         goLogin(){
